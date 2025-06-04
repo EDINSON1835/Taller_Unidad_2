@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.stream.*;
 
 public class GestorPersonas {
-/
+// Clase principal para gestionar personas y animales
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         List<Persona> personas = new ArrayList<>();
